@@ -1,0 +1,6 @@
+Cyber security:
+
+
+Subnet Mask for 50 nodes   = 255.255.255.192
+Subnet Mask for 62 nodes   = 255.255.255.192
+Subnet Mask for 124 nodes =255.255.255.128
