@@ -1,0 +1,18 @@
+Answer 1:
+
+						   Target		            IP
+
+a)Mail server for Ibm.com    -     	     mx0b-001b2d01.pphosted.com		148.163.158.5
+	                                     mx0a-001b2d01.pphosted.com		148.163.156.1
+
+b)Mail server for Wipro.com  -    wipro-com.mail.protection.outlook.com		104.47.125.36
+
+
+Answer 2:
+ 
+						Location
+
+a)Mail server for Ibm.com    - California,United States of America (US)
+
+
+a)Mail server for Wipro.com  - Hong Kong,Hong Kong (HK)
